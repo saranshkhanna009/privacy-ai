@@ -1,4 +1,4 @@
-# Privacy-Preserving AI Framework
+# Privacy Preserving AI Framework
 
 This framework is a modular, enterprise-ready pipeline designed to generate realistic synthetic datasets (such as sensitive medical or financial records) while mathematically guaranteeing privacy compliance.
 
